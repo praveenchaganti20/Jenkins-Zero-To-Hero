@@ -135,5 +135,28 @@ A: In Jenkins, JNLP is used to allow agents (also known as "slave nodes") to be 
 Q: What are some of the common plugins that you use in Jenkins ?
 
 A: Be prepared for answer, you need to have atleast 3-4 on top of your head, so that interview feels you use jenkins on a day-to-day basis.
+Git Plugin: Allows Jenkins to integrate with Git repositories for source code management.
+
+GitHub Plugin: Provides integration with GitHub, enabling Jenkins to trigger builds based on GitHub events and report build statuses back to GitHub.
+
+Pipeline Plugin: Enables the creation of Jenkins Pipeline jobs, allowing users to define build pipelines as code.
+
+Docker Plugin: Integrates Jenkins with Docker, allowing builds to run inside Docker containers and facilitating the creation and management of Docker images.
+
+JUnit Plugin: Parses JUnit test result XML files and generates test reports in Jenkins.
+
+Email Extension Plugin: Allows Jenkins to send customizable email notifications for build results.
+
+SonarQube Scanner Plugin: Integrates Jenkins with SonarQube for static code analysis and quality reporting.
+
+Artifactory Plugin: Facilitates integration with Artifactory, a repository manager, for managing build artifacts and dependencies.
+
+Ansible Plugin: Integrates Jenkins with Ansible for automating deployment and configuration management tasks.
+
+Slack Notification Plugin: Sends build notifications to Slack channels, keeping team members informed about build statuses.
+
+Kubernetes Plugin: Integrates Jenkins with Kubernetes, enabling Jenkins to dynamically provision and manage build agents as Kubernetes pods.
+
+AWS Credentials Plugin: Allows Jenkins to securely manage AWS credentials for accessing AWS services in build jobs.
 
 
